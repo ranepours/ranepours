@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ranepours
-- 👀 I’m interested in fullstack engineering and game development
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m @ranepours, 22, based in Jax, FL
+- 👀 I’m interested in game & development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on: [not there just yet!]
 - 📫 email: ranejdavis@gmail.com
 
