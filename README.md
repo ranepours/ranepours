@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ranepours, 22, based in FL.
-- 👀 I’m interested in game & web development
-- 🌱 I’m currently learning C++ & C#
+- 👋 Hi, I’m @ranepours, a 22 year old bootcamp student (USF) based in The Sunshine State.
+- 👀 I’m interested in game & web development and tryin dip my feet into all things tech!
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on: [not there just yet!]
-- 📫 email: ranejdavis@gmail.com
+- 📫 email: ranepours@gmail.com
 
 <!---
 ranepours/ranepours is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
