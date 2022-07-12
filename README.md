@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranepours, a 22 year old bootcamp student (USF) based in The Sunshine State.
 - 👀 I’m interested in game & web development and tryin to dip my feet in all things tech!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working on my portfolio!
 - 💞️ I’m looking to collaborate on: [not there just yet!]
 - 📫 email: ranepours@gmail.com
 
