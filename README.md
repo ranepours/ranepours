@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranepours, a web enthusiast based in The Sunshine State.
+- 👋 Hi, I’m @ranepours, a tech enthusiast based in Miami, FL.
 - 👀 I’m interested in learning more about backend & maintenance technologies!
 - 🌱 I’m currently working on my portfolio!
 - 💞️ I’m looking to collaborate on: [not there just yet!]
