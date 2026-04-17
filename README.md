@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ranepours, a tech enthusiast based in Miami, FL.
-- 👀 I’m interested in learning more about backend & maintenance technologies!
-- 🌱 I’m currently working on my portfolio!
+- 👋 Hi, I’m @ranepours, a biochemist (almost) based in Fl.
+- 👀 I’m interested in learning more about R.
+- 🌱 I’m currently working on a LOT!
 - 💞️ I’m looking to collaborate on: [not there just yet!]
 - 📫 email: ranepours@gmail.com
 
